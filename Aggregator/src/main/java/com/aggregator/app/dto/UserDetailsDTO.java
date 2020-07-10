@@ -1,6 +1,5 @@
 package com.aggregator.app.dto;
 
-import javax.persistence.Entity;
 
 public class UserDetailsDTO {
 	
